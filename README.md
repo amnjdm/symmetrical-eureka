@@ -32,4 +32,4 @@ At this point, run this from anywhere:
 
 Maybe you'll end up seeing something like this:
 
-[[https://github.com/amnjdm/symmetrical-eureka/blob/master/img/screenshot_docker_container.jpg|alt=Nice!]]
+![Nice!](https://github.com/amnjdm/symmetrical-eureka/blob/master/img/screenshot_docker_container.jpg)
