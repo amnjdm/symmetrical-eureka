@@ -6,7 +6,7 @@ You can definitely rename these images and containers to whatever youâ€™d likeâ€
 
 I made two directories: _dataimage_ & _nice_
 
-In _dataimage_, I placed my dotfiles (bashrc, gitconfig, tmux.conf & vimrc) and the Dockerfile for that image. This Dockerfile is built an image and a container is created with that image to act as the home directory in the other usable container (created from _nice_) and to persist data.
+In _dataimage_, I placed my dotfiles (bashrc, gitconfig, tmux.conf & vimrc) and the Dockerfile for that image. This Dockerfile is used to build an image and a container is created with that image to act as the home directory in the other usable container (created from _nice_) and to persist data.
 
 After all of the files are created in the corresponding directories, while in the _dataimage_ directory, run:
 
