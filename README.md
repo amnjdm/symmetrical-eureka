@@ -1,5 +1,7 @@
 # symmetrical-eureka
 
+Two Docker images. One image is run as a storage container (home directory) for custom dotfiles (bash, tmux, vim, powerline and git) and to persist data after exit. The other image is run as an application container, which utilizes the storage container. Eureka!
+
 _Peep the Wiki page for a more detailed explanation of how I got this to work_
 
 You can definitely rename these images and containers to whatever you’d like…
